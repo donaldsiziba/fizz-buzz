@@ -4,7 +4,7 @@ Return "fizz", "buzz" or "fizzbuzz"
 For a given natural number greater than zero return:  
 1. "fizz" if the number is divisible by 3  
 2. "buzz" if the number is divisible by 5  
-3. "fizzbuzz" if the number is divisible by 15  
+3. "fizzbuzz" if the number is divisible by both 3 and 5
 4. the same number if no other requirements are fulfilled  
 
 # Solution
